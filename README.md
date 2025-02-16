@@ -46,8 +46,6 @@ weather-app/
 ├── style.css          # Styling for the app  
 ├── script.js          # JavaScript for API integration and DOM manipulation  
 └── README.md          # Documentation  
-
-
 📚 Usage
 
 Open the app.
